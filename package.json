@@ -1,0 +1,16 @@
+{
+  "name": "rnd-jp",
+  "version": "0.0.1",
+  "description": "Generator of Japanese virtual persona",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "KBuild",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "kuroshiro": "^0.1.2"
+  }
+}
