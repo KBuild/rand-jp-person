@@ -1,5 +1,5 @@
 
-# Random Japanese Persona Maker(rnd-jp)
+# Random Japanese Persona Maker
 
 ## How to use
 
